@@ -12,12 +12,12 @@ With hindsight, my portfolio had the best trend for cumulative returns compared 
 
 ![Standard Deviation of Porfolios](images/Portfolio_Standard_Deviation.png)
 
-
+#### Box Plot
 ![Portfolio Box Plot](images/Portfolio_Box_Plot.png)
 
 
 ![Sharpe Ratio](images/Portfolio_Sharpe_Ratio.png)
 
-
+#### Correlation Heat Map
 ![Correlation Heat Map](images/Portfolio_Correlation.png)
 
