@@ -6,3 +6,18 @@ With hindsight, my portfolio had the best trend for cumulative returns compared 
 
 
 ![Portfolio Daily Returns](images/Portfolio_Daily_Returns.png)
+
+
+![Standard Deviation of Porfolios](images/Portfolio_Standard_Deviation.png)
+
+
+![Portfolio Box Plot](images/Portfolio_Box_Plot.png)
+
+
+![Sharpe Ratio](images/Portfolio_Sharpe_Ratio.png)
+
+
+![Correlation Heat Map](images/Portfolio_Correlation.png)
+
+
+[Link to Code](https://github.com/tyoung65/portfolio_analysis_pandas/blob/master/portfolio_analysis.ipynb)
